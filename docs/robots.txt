@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://example.org/sitemap.xml
+Sitemap: https://mkoppar.github.io/website/sitemap.xml
