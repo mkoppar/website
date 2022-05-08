@@ -1,7 +1,7 @@
 baseURL: 'http://example.org/'
 languageCode: 'en-us'
 title: 'Manas Koppar'
-
+publishDir: "docs"
 paginate: 5
 theme: PaperMod
 
