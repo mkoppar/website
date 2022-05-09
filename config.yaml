@@ -28,7 +28,7 @@ languages:
         menu:
             main:
                 - name: Resume
-                  url: https://drive.google.com/file/d/1gKbkqz1o05f8VJRQ1GD2fzo0zgUxQMJY/view?usp=sharing
+                  url: "Koppar.Manas.Resume.pdf"
                   weight: 5
                 - name: About
                   url: about/
